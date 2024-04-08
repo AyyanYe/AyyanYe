@@ -30,10 +30,10 @@
 
 ### Contact me:
 
-<a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/ayyan-ahmed/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
-
+<a href=""><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<!--
 ### Toolset
 
 <table>
@@ -167,7 +167,8 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
             <!-- <a href=""><img src=""/></a> -->
         </td>
-    </tr>
+    </tr> 
+<!--
 </table>
 
 
@@ -200,7 +201,7 @@
         </td>
     </tr>
 </table>
-
+-->
 
 
 
