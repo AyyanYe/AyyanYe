@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Ayyan But
+# Hello there 👋, I'm Ayyan Ahmed. I'm a ...
 
 ### Software/React Native/MERN Stack Engineer
 
