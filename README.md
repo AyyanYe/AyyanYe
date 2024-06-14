@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: __One-Stop File Management SaaS Project__ 
 - 🌱 I’m currently learning: __Blockchain, Solidity Programming, Django__
 - 💬 Ask me about __MERN, Nextjs, threejs, React Native, Django, SaaS...__
-- 🧧 Urdu name: __آیان_
+- 🧧 Urdu name: __ آیان __
 - ⚡ Fun fact: I prefer veggies over meat any day
 
 <br/>
