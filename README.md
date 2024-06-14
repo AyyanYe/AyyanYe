@@ -2,7 +2,7 @@
 
 ### Software/React Native/MERN Stack Engineer
 
-- 🔭 I’m currently working on: __Optimizing FrontEnd & BackEnd__ 
+- 🔭 I’m currently working on: __One-Stop File Management SaaS Project__ 
 - 🌱 I’m currently learning: __Blockchain, Solidity Programming, Django__
 - 💬 Ask me about __MERN, Nextjs, threejs, React Native, Django, SaaS...__
 - 🧧 Urdu name: __آیان_
@@ -204,6 +204,3 @@
     </tr>
 </table>
 -->
-
-- 🔭 I’m currently working on a SaaS Project
-- 🌱 I’m currently learning Kubernetes
