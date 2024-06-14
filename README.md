@@ -32,7 +32,7 @@
 
 <!-- <a href=""><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a> -->
 <a href="https://www.linkedin.com/in/ayyan-ahmed/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<!-- <a href=""><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a> -->
+<a href="ayunahmed69@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
 <!--
 ### Toolset
 -- >
