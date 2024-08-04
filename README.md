@@ -23,6 +23,9 @@
         <td>
             <a href="https://drive.google.com/file/d/1K6Mi-NZhOyqVDD3-XE12WMxD65URKIe-/view?usp=sharing">📃</a>
         </td>
+        <td>
+            <a href="https://www.hackerrank.com/profile/AyyanAhmed">![image](https://github.com/user-attachments/assets/ef2c5237-ae4e-4c7e-9777-acca156eb617)</a>
+        </td>
     </tr>
 </table>
 
