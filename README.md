@@ -45,6 +45,17 @@
 <!-- <a href=""><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a> -->
 <a href="https://www.linkedin.com/in/ayyan-ahmed/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayyanahmed@outlook.com&su=Subject%20Here&body=Body%20Text%20Here" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
+
+## My Certifications
+
+### Coursera Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d5ca9569-a8f8-43a4-9f10-946992bde099" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+[![Meta Full-Stack Engineer Certificate](https://images.credly.com/size/340x340/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png)](https://www.credly.com/badges/6d986daf-a62b-4a12-b6ea-d4a8814fa726/public_url)
+
+[![Meta Back-End Engineer Certificate](https://images.credly.com/size/340x340/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png)](https://www.credly.com/badges/d5ca9569-a8f8-43a4-9f10-946992bde099/public_url)
+
+[![Meta Front-End Engineer Certificate](https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png)](https://www.credly.com/badges/5c3e202e-59b0-498f-9316-462b532a5642/public_url)
 <!--
 ### Toolset
 -- >
