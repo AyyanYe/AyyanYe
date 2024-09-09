@@ -14,8 +14,9 @@
 <table>
     <tr>
         <th>My Website</th>
-        <th>My CV</th>
+        <th>My Resume</th>
         <th>HackerRank Profile</th>
+        <th>Coursera Profile</th>
     </tr>
     <tr>
         <td>
@@ -26,6 +27,9 @@
         </td>
         <td>
             <a href="https://www.hackerrank.com/profile/AyyanAhmed">👨‍💻</a>
+        </td>
+        <td>
+            <a href="https://www.coursera.org/learner/ayyan-ahmed">📚</a>
         </td>
     </tr>
 </table>
