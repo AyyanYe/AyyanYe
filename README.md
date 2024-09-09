@@ -17,6 +17,7 @@
         <th>My Resume</th>
         <th>HackerRank Profile</th>
         <th>Coursera Profile</th>
+        <th>LeetCode Profile</th>
     </tr>
     <tr>
         <td>
@@ -30,6 +31,9 @@
         </td>
         <td>
             <a href="https://www.coursera.org/learner/ayyan-ahmed">📚</a>
+        </td>
+        <td>
+            <a href="https://leetcode.com/u/ayunahmed69/">🔗</a>
         </td>
     </tr>
 </table>
