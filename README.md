@@ -51,9 +51,9 @@
 ### Meta Badges
 
 <section>
-<a href="https://www.credly.com/badges/6d986daf-a62b-4a12-b6ea-d4a8814fa726/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" width="300" height="300"/></a>
-<a href="https://www.credly.com/badges/d5ca9569-a8f8-43a4-9f10-946992bde099/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" width="300" height="300"/></a>
-<a href="https://www.credly.com/badges/5c3e202e-59b0-498f-9316-462b532a5642/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width="300" height="300"/></a>
+<a href="https://www.credly.com/badges/6d986daf-a62b-4a12-b6ea-d4a8814fa726/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" width="200" height="200"/></a>
+<a href="https://www.credly.com/badges/d5ca9569-a8f8-43a4-9f10-946992bde099/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" width="200" height="200"/></a>
+<a href="https://www.credly.com/badges/5c3e202e-59b0-498f-9316-462b532a5642/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width="200" height="200"/></a>
 </section>
 <!--
 ### Toolset
