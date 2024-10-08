@@ -24,7 +24,7 @@
             <a href="https://ayyanahmed-portfolio.netlify.app/">🌐</a>
         </td>
         <td>
-            <a href="https://drive.google.com/file/d/1K6Mi-NZhOyqVDD3-XE12WMxD65URKIe-/view?usp=sharing">📃</a>
+            <a href="https://drive.google.com/file/d/1qOIcYFKz7zNUt-30iOFjRt646_fs9nRz/view?usp=drive_link">📃</a>
         </td>
         <td>
             <a href="https://www.hackerrank.com/profile/AyyanAhmed">👨‍💻</a>
