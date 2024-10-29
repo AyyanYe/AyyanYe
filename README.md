@@ -60,7 +60,13 @@
 
 <section>
 <a href="https://www.apollographql.com/tutorials/certifications/73f3e9e8-f8d8-421c-b259-b8abb0f29b22" target="_blank"><img src="https://res.cloudinary.com/apollographql/image/upload/v1654200365/odyssey/certifications/graph_professional_badge.svg" width="200" height="200"/></a>
-<a href="https://www.apollographql.com/tutorials/certifications/2edaf293-cb72-4568-b822-3b675960f9e4" target="_blank"><img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" width="200" height="200"/></a>
+<a href="https://www.apollographql.com/tutorials/certifications/2edaf293-cb72-4568-b822-3b675960f9e4" target="_blank"><img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" width="200" height="200" /></a>
+</section>
+
+### Meta React Native Specialization
+
+<section>
+    <a href="https://coursera.org/share/3f95e65d7361c034e6c9550b7d814c9e" target="_blank"><img src="https://cdn.shopaccino.com/igmguru/articles/React-Native-Developer-1-900x555.png" width="300" height="200"/></a>
 </section>
 <!--
 ### Toolset
