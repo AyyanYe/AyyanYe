@@ -55,6 +55,13 @@
 <a href="https://www.credly.com/badges/d5ca9569-a8f8-43a4-9f10-946992bde099/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" width="200" height="200"/></a>
 <a href="https://www.credly.com/badges/5c3e202e-59b0-498f-9316-462b532a5642/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width="200" height="200"/></a>
 </section>
+
+### Apollo Badges
+
+<section>
+<a href="https://www.apollographql.com/tutorials/certifications/73f3e9e8-f8d8-421c-b259-b8abb0f29b22" target="_blank"><img src="https://res.cloudinary.com/apollographql/image/upload/v1654200365/odyssey/certifications/graph_professional_badge.svg" width="200" height="200"/></a>
+<a href="https://www.apollographql.com/tutorials/certifications/2edaf293-cb72-4568-b822-3b675960f9e4" target="_blank"><img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" width="200" height="200"/></a>
+</section>
 <!--
 ### Toolset
 -- >
