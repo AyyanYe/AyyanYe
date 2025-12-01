@@ -12,7 +12,6 @@
 <table>
     <tr>
         <th>My Website</th>
-        <th>My Resume</th>
         <th>HackerRank Profile</th>
         <th>Coursera Profile</th>
         <th>LeetCode Profile</th>
@@ -20,9 +19,6 @@
     <tr>
         <td>
             <a href="https://ayyanahmed-portfolio.netlify.app/">🌐</a>
-        </td>
-        <td>
-            <a href="https://drive.google.com/file/d/1qOIcYFKz7zNUt-30iOFjRt646_fs9nRz/view?usp=drive_link">📃</a>
         </td>
         <td>
             <a href="https://www.hackerrank.com/profile/AyyanAhmed">👨‍💻</a>
