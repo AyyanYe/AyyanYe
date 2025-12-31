@@ -2,9 +2,9 @@
 
 ### Software/React Native/MERN Stack Engineer
 
-- 🔭 I’m currently working on: __One-Stop File Management SaaS Project__ 
-- 🌱 I’m currently learning: __Hardhat, Solidity, Nest.js__
-- 💬 Ask me about __MERN, Nextjs, React Native, Django, SaaS...__
+- I’m currently working on: __One-Stop File Management SaaS Project__ 
+- I’m currently learning: __Hardhat, Solidity, Nest.js__
+- Ask me about __MERN, Nextjs, React Native, Django, SaaS...__
 
 <br/>
 
